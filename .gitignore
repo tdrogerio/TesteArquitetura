@@ -1,0 +1,27 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/TesteArquitetura.Core/bin/Debug/net6.0
+/src/TesteArquitetura.DocumentosEntrada.Domain/bin/Debug/net6.0
+/src/TesteArquitetura.DocumentosEntrada.Domain/obj
+/src/TesteArquitetura.DocumentosEntrada.Data/obj
+/src/TesteArquitetura.Core/obj
+/.vs/TesteArquitetura/v17
+/src/TesteArquitetura.Documento.Application/obj
+/.vs/TesteArquitetura/DesignTimeBuild
+/src/TesteArquitetura.Documentos.Data/obj/Debug/net6.0
+/src/TesteArquitetura.Documentos.Data/obj
+/src/TesteArquitetura.Documentos.Domain/obj
+/src/TesteArquitetura.Documento.Application/bin/Debug/net6.0
+/src/TesteArquitetura.Documentos.Data/bin/Debug/net6.0
+/src/TesteArquitetura.Documentos.Domain/bin/Debug/net6.0
+/src/TesteArquitetura.WebApi/bin/Debug/net6.0
+/src/TesteArquitetura.WebApi/obj
+/src/TesteArquitetura.Documentos.Application/bin/Debug/net6.0
+/src/TesteArquitetura.Documentos.Application/obj
+/src/TesteArquitetura.Documentos.Data/Migrations
+/src/TesteArquitetura.WebApi/Migrations
+/src/TesteArquitetura.Core/Elmah/LogObjects.cs
+/src/TesteArquitetura.Core/Elmah/LogWriter.cs
