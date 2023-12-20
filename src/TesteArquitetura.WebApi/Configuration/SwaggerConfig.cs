@@ -77,10 +77,10 @@ namespace TesteArquitetura.WebApi.Configuration
         {
             var info = new OpenApiInfo()
             {
-                Title = "TesteArquitetura - Cérebro 3",
+                Title = "TesteArquitetura - Software TI",
                 Version = description.ApiVersion.ToString(),
                 Description = "Versão de apresentação para validação do projeto com conceitos em DDD e TDD.",
-                Contact = new OpenApiContact() { Name = "Time de Desenvolvimento - Rogerio Trandafilov Dantas", Url = new Uri("https://www.SoftwareTI.com.br") }
+                Contact = new OpenApiContact() { Name = "Time de Desenvolvimento - Rogerio Trandafilov Dantas", Url = new Uri("https://sites.google.com/view/software-ti/p%C3%A1gina-inicial") }
             };
 
             if (description.IsDeprecated) info.Description += " Esta versão está obsoleta!";
